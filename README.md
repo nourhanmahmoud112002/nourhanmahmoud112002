@@ -44,7 +44,7 @@ An interactive web app using the **Rick and Morty API**, built with Next.js.
 
 ---
 
-### BankPick (Mobile App)(https://github.com/nourhanmahmoud112002/BankPick)
+### [BankPick](https://github.com/nourhanmahmoud112002/BankPick) (Mobile App)
 A mobile banking app built with React Native, developed during training at Ejada.  
 🔑 **Key Features:**  
 - Built with **React Native** for smooth mobile experience  
