@@ -1,39 +1,74 @@
-
 <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Animation" width="800"> </p>
 
 # ✨ Hey there, I’m Nourhan Mahmoud! 👋
 
-🚀 **Aspiring Software Engineer | Flutter Developer Intern | Passionate about creating impactful tech solutions**  
+🚀 **Software Developer | React Native Developer **  
 
 🎓 **Graduate in Computer Science** from Ain Shams University (2024), with a GPA of 3.271. I specialize in building efficient, scalable, and user-centric applications using modern technologies.  
 
-🌟 **Currently:** Flutter Developer Intern at **Rasid**, where I continue to hone my skills in cross-platform app development and innovative problem-solving.
+🌟 **Currently:** Software Developer at **Ejada**, where I work on building ** mobile applications** using ** and React Native**.  
 
 ---
 
 ## 🛠️ Tech Stack and Skills
-- **Languages:** Dart, Python, C++, Java  
-- **Frameworks and Tools:** Flutter, Firebase, Hive  
-- **State Management:** Cubit, Bloc  
-- **Patterns:** MVVM, Clean Architecture, SOLID Principles  
-- **Additional Skills:** API Integration, OCR Technology, Data Structures, OOP Concepts, Git & GitHub  
+- **Languages:** JavaScript, TypeScript, Python, C++, Java  
+- **Frameworks & Libraries:** React, Next.js, React Native, Bootstrap, Tailwind CSS, shadcn/ui  
+- **State & Data Management:** Redux, Redux toolkit , React Query, AsyncStorage , MMKV
+- **Patterns & Principles:** Clean Architecture, SOLID Principles  
+- **Additional Skills:** API Integration, Responsive UI/UX, Data Structures, OOP Concepts, Git & GitHub  
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects (React / React Native)
 
-### [CV2Career](https://github.com/nourhanmahmoud112002)  
-A graduation project transforming job recruitment for both seekers and HR professionals.  
+### [E-Commerce Website](https://github.com/nourhanmahmoud112002/e-commerce-using-react)  
+A fully functional e-commerce website built during training at Ejada.  
+🔑 **Key Features:**  
+- Developed the UI from scratch with **React + Bootstrap**  
+- Fully responsive design across devices  
+- Fetched product data dynamically from an API  
+- Admin dashboard with **Add / Update / Delete** product features  
+💡 **Tech Stack:** React, Bootstrap, JavaScript, REST API  
+
+---
+
+### [Rick & Morty Explorer](https://github.com/nourhanmahmoud112002/Rick-and-Morty)  
+An interactive web app using the **Rick and Morty API**, built with Next.js.  
+🔑 **Key Features:**  
+- **Next.js App Router** with React Server Components (RSC) for performance  
+- **shadcn/ui** + **Tailwind CSS** for sleek, responsive UI  
+- Search characters by name or species  
+- Create, update, and delete custom characters  
+- Dynamic data fetching from the Rick and Morty API  
+💡 **Tech Stack:** Next.js, React, Tailwind CSS, shadcn/ui, REST API  
+
+---
+
+### BankPick (Mobile App)  (https://github.com/nourhanmahmoud112002/BankPick)
+A mobile banking app built with React Native, developed during training at Ejada.  
+🔑 **Key Features:**  
+- Built with **React Native** for smooth mobile experience  
+- Data fetched from backend API  
+- **React Query** for server state & caching  
+- **AsyncStorage** for local data persistence (works even offline)  
+💡 **Tech Stack:** React Native, React Query, AsyncStorage, REST API  
+
+---
+
+## 📂 Previous Experience with Flutter
+
+### [CV2Career] 
+Graduation project transforming job recruitment for seekers and HR professionals.  
 🔑 **Key Features:**  
 - Converts CVs to ATS-compatible formats  
-- AI-powered job title recommendations using DistilBert & T5 Model  
+- AI-powered job title recommendations (DistilBert & T5 Model)  
 - Real-time job data scraping from Wuzzuf  
 - Advanced CV filtering for HR  
 💡 **Tech Stack:** Python, Dart, Firebase, Flutter  
 
 ---
 
-### [OCR App](https://github.com/nourhanmahmoud112002/OCR.git)  
+### [OCR App](https://github.com/nourhanmahmoud112002/OCR)  
 An application that scans images and extracts text for enhanced productivity.  
 🔑 **Key Features:**  
 - Tesseract OCR for text extraction  
@@ -54,6 +89,8 @@ A robust mobile application for seamless online shopping experiences.
 ---
 
 ## 🎓 Certifications and Events
+- **React Native Fundamentals Training – Ejada**  
+- **React & Next.js Hands-on Training**  
 - **Complete Flutter and Dart Development Course**  
 - **Flutter Advanced Course: Bloc & MVVM Pattern**  
 - **Machine Learning Workshop**  
